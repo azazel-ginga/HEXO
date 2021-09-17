@@ -90,12 +90,13 @@ iconfont: "1832207_c8i9n1ulxlt"
 
 menu:
   home: / || home
+  archives: /archives/ || list-alt
   # about: /about/ || user
-  # posts:
-  #   default: / || feather
-  #   archives: /archives/ || list-alt
-  #   categories: /categories/ || th
-  #   tags: /tags/ || tags
+  posts:
+    default: / || feather
+    # archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
   # friends: /friends/ || heart
   # links: /links/ || magic
 

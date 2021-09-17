@@ -1,7 +1,10 @@
 ---
 title: PY-Windows2020-J
 date: 2021-09-10 15:06:07
+categories: 网络安全
 tags:
+      - 中科磐云	
+      - P100
 password: zhimakaimen123.
 ---
 
